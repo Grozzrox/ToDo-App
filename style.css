@@ -4,6 +4,15 @@ body {
     background-color: gainsboro;
 }
 
+h1 {
+    margin-bottom: 0px;
+}
+
+p {
+    margin: 0px 0px 40px 0px;
+    font-size: 0.95rem;
+}
+
 #red {
     color: red;
 }
