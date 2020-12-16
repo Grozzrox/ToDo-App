@@ -4,6 +4,10 @@ body {
     background-color: gainsboro;
 }
 
+#red {
+    color: red;
+}
+
 .completed {
     color: red;
     text-decoration: line-through;
