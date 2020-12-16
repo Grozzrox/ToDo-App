@@ -5,6 +5,10 @@ body {
     background-color: gainsboro;
 }
 
+ol li {
+    margin: 10px 0px 0px 10px;
+}
+
 h1 {
     margin-bottom: 0px;
 }
