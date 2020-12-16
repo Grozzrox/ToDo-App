@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A Dynamic To-Do List",
+  "main": "app.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grozzrox/ToDo-App.git"
+  },
+  "author": "grozzy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grozzrox/ToDo-App/issues"
+  },
+  "homepage": "https://github.com/Grozzrox/ToDo-App#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
