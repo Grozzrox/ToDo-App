@@ -1,0 +1,10 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    background-color: gainsboro;
+}
+
+.completed {
+    color: red;
+    text-decoration: line-through;
+}

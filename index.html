@@ -3,9 +3,23 @@
     <head>
         <title>ToDo App</title>
         <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap" rel="stylesheet">
     </head>
     <body>
         <h1>ToDo List</h1>
+        <form id="todo">
+            <label for="new-todo">New todo:
+                <input type="text" name="new-todo">
+            </label>
+            <input type="submit">
+        </form>
+
+        <ul id="todo-list">
+            <li>Do dishes <button>Remove</button></li>
+            <li>Do laundry <button>Remove</button></li>
+            <li>Walk dog <button>Remove</button></li>
+        </ul>
 
         <script src="app.js"></script>
     </body>
